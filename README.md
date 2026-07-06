@@ -27,7 +27,7 @@
 
 **Personal Portfolio**
 *A responsive web space showcasing my development journey and technical projects.*
-- **Tech:** React, Tailwind CSS.
+- **Tech:** React, Tailwind CSS, Axios, Node.js, Express.js, MongoDB (Atlas), Resend Email API
 - [View Project](https://github.com/AaiswaryaPM/Fullstack-Portfolio)
 
 ---
