@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AaiswaryaPM/AaiswaryaPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! I'm Aaiswarya PM 👋
 
-Here are some ideas to get you started:
+### 🚀 Full Stack Developer | MERN Enthusiast
+*Passionate about building scalable web applications and learning through hands-on projects.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/aaiswarya-pm-58549b2a8/) | [Portfolio](https://fullstack-portfolio-mu-puce.vercel.app/) | [Email](mailto:aaiswarpandian@gmail.com)
+
+---
+
+### 🛠 Tech Stack
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+---
+
+### 🏗 Featured Projects
+
+**Smart ToS Decoder**
+*A tool designed to simplify complex Terms of Service agreements for better transparency.*
+- **Tech:** React, Node.js, Express, MongoDB.
+- [View Project](https://github.com/AaiswaryaPM/Smart-ToS-Decoder)
+
+**Personal Portfolio**
+*A responsive web space showcasing my development journey and technical projects.*
+- **Tech:** React, Tailwind CSS.
+- [View Project](https://github.com/AaiswaryaPM/Fullstack-Portfolio)
+
+---
+
+### 📈 GitHub Stats
+![Your Name's Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
+
+</div>
