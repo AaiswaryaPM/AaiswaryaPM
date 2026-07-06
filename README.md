@@ -33,6 +33,6 @@
 ---
 
 ### 📈 GitHub Stats
-![Aaiswarya PM](https://github-readme-stats.vercel.app/api?username=AaiswaryaPM&show_icons=true&theme=radical&hide_border=true)
+![Aaiswarya PM]((https://github-readme-stats.vercel.app/api?username=AaiswaryaPM&show_icons=true&theme=radical&hide_border=true))
 
 </div>
