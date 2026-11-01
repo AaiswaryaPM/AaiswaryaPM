@@ -99,7 +99,7 @@ A responsive developer portfolio featuring project showcases, dark/light mode, i
 React · Node.js · Express · MongoDB · Tailwind CSS
 
 <a href="https://github.com/AaiswaryaPM/Fullstack-Portfolio">
-<img src="https://img.shields.io/badge/GitHub-View%20Source%20Code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio GitHub repository" />
+<img src="https://img.shields.io/badge/GitHub-View%20Repository-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio GitHub repository" />
 </a>
 
 </td>
